@@ -118,7 +118,7 @@ After a few minutes you obtain a *directory* `script1-local-results.txt`.
 	│   └── _SUCCESS*
 	└── tutorial.jar
 
-`part-r-00000*` is a TSV (Tab-Separated Values) file which contains 
+`part-r-00000` is a TSV (Tab-Separated Values) file which contains 
 the results of the analysis.
 
 ### 2nd option: Use VirtualBox or Docker
